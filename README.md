@@ -1,5 +1,6 @@
 # Heart Failure Prediction with Neural Networks
 dataset: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+
 Kalp yetmezliği klinik kayıtlarına dayanarak ölüm olaylarını tahmin etmek için bir Yapay Sinir Ağı  modeli oluşturmayı ve optimize etmeyi amaçlamaktadır.
 
 ## Proje Özeti
